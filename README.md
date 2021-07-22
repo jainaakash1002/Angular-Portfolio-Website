@@ -1,6 +1,6 @@
 # PersonalPortfoliAngular
 
-### Checkout the video explanation at [here](https://www.youtube.com/watch?v=MHzWXfjdE0w&feature=youtu.be)
+### [Live Site](https://jainaakash.000webhostapp.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
 
